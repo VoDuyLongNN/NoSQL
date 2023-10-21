@@ -1,0 +1,312 @@
+﻿MaTruong,TenTruong
+01,THPT chuyên Lê Quý Đôn
+02,THPT Phan Bội Châu
+03,Trường THPT Lê Trung Đình
+04,Trường THPT Pleiku
+05,Quốc Học Quy Nhơn
+06,THPT Lê Lợi
+07,THPT chuyên Nguyễn Tất Thành
+08,Trường THPT Trần Hưng Đạo
+09,Trường THPT A Sanh
+10,THPT Trưng Vương
+11,THPT Số 3 An Nhơn
+12,THPT Số 1 An Nhơn
+13,THPT Vĩnh Thạnh
+14,THPT Hòa Bình
+15,Trường THPT Nguyễn Bỉnh Khiêm
+16,THPT Số 1 Phù Mỹ
+17,THPT Ngô Gia Tự  :Thành phố Tuy Hòa
+18,THPT Chuyên Lương Văn Chánh
+19,Trường THPT Phan Bội Châu
+20,THPT Nguyễn Diêu
+21,THPT Nguyễn Trường Tộ
+22,THPT Ngô Mây
+23,THPT Hoài Ân
+24,"THPT Nguyễn Trung Trực  :TT Phù Mỹ, H. Phù Mỹ"
+25,"THPT Trần Cao Vân  :72 Trần Cao Vân, TP. Quy Nhơn"
+26,THPT Số 2 An Nhơn
+27,THPT Nguyễn Hữu Quang
+28,"THPT Nguyễn Thái Học  :127 Nguyễn Thái Học, TP. Quy Nhơn"
+29,THPT Lý Tự Trọng
+30,"Trường THPT Nguyễn Thị Minh Khai  :Xã A Dơk, H. Đak Đoa, Gia Lai"
+31,THPT Nguyễn Thái Học
+32,THPT Quy Nhơn
+33,"THPT Nguyễn Hữu Quang  :Xã Cát Hưng, H. Phù Cát"
+34,THPT Bình Dương
+35,"THPT Xuân Diệu  :TT Tuy Phước, H. Tuy Phước"
+36,THCS và THPT Chu Văn An
+37,THPT Hùng Vương
+38,THPT Phan Đình Phùng
+39,THPT Trần Cao Vân
+40,THPT Ngô Gia Tự
+41,PT Dân tộc nội trú tỉnh
+42,THPT Phan Chu Trinh
+43,THPT Lê Quý Đôn
+44,THPT Xuân Diệu
+45,THPT Nguyễn Hồng Đạo
+46,THPT Tây Sơn
+47,Trường THPT Nguyễn Thái Học
+48,THPT An Lương
+49,"THPT Nguyễn Trường Tộ  :Đường Lê Duẩn, Ph. Đập Đá, thị xã An Nhơn"
+50,Trường THPT Lương Thế Vinh
+51,THPT Nguyễn Huệ
+52,Trường THPT Hà Huy Tập
+53,"THPT Quy Nhơn  :325 Nguyễn Thị Minh Khai, TP. Quy Nhơn"
+54,THPT Vân Canh
+55,Trường THPT Nguyễn Tất Thành
+56,"THPT Số 3 An Nhơn  :Thôn Thọ Lộc 1, xã Nhơn Thọ, thị xã An Nhơn"
+57,THPT Trần Quang Diệu
+58,THPT Tam Quan
+59,"THPT Trưng Vương  :26 Nguyễn Huệ, TP. Quy Nhơn"
+60,"THPT Hùng Vương  :P. Trần Quang Diệu, TP. Quy Nhơn"
+61,THPT Số 2 Phù Mỹ
+62,THPT Tăng Bạt Hổ
+63,"Trường THPT Lý Thường Kiệt  :48 Nguyễn Viết Xuân, phường Hòa Bình, thị xã Ayun Pa, Gia Lai"
+64,THPT Số 1 Tuy phước
+65,THPT Nguyễn Dục
+66,THCS và THPT Võ Nguyên Giáp
+67,Trường THPT Lê Thánh Tông
+68,PT Dân tộc nội trú tỉnh  :Thành phố Tuy Hòa
+69,THPT Nguyễn Trân
+70,Trường THPT Dân Tộc Nội Trú Đông Gia Lai
+71,Trường THPT Phạm Hồng Thái
+72,"THPT Bình Dương  :TT Bình Dương, H. Phù Mỹ"
+73,THPT Sào Nam
+74,THPT Nguyễn Thị Minh Khai
+75,"THCS, THPT Duy Tân"
+76,"THPT Mỹ Thọ  :Xã Mỹ Thọ, H. Phù Mỹ"
+77,THPT Lê Thánh Tôn
+78,THCS và THPT Võ Thị Sáu
+79,"THPT Nguyễn Diêu  :Xã Phước Sơn, H. Tuy Phước"
+80,PT DTNT Đăk Hà  :H. Đăk Hà - Kon Tum
+81,"TH, THCS và THPT Trương Vĩnh Ký"
+82,"Trường THPT Chu Văn An  :TTr. Phú Túc, H. Krông Pa, Gia Lai"
+83,"THPT Trần Quý Cáp  :Phường Ninh Diêm, Thị xã Ninh Hoà"
+84,THPT Nguyễn Đình Chiểu
+85,PT DTNT THCS&THPT An Lão
+86,TT GDNN-GDTX Phù Cát
+87,THPT Số 2 Phù Cát
+88,"THPT Vân Canh  :Xã Canh Vinh, H. Vân Canh"
+89,PT DTNT Vân Canh
+90,"THPT Số 1 Tuy phước  :TT Tuy Phước, H. Tuy Phước"
+91,THPT Nguyễn Du
+92,THPT Kon Tum
+93,THPT Đăk Mil
+94,PT DTNT Ngọc Hồi
+95,"THPT Số 2 Phù Cát  :Xã Cát Minh, H. Phù Cát"
+96,Trường THPT Nguyễn Chí Thanh
+97,"THPT Vĩnh Thạnh  :Thị trấn Vĩnh Thạnh, H. Vĩnh Thạnh"
+98,THPT Lê Trung Kiên
+99,THPT Số 3 Tuy Phước
+100,THPT Nguyễn Trung Trực
+101,THPT Nguyễn Du (từ 2018)
+102,"THPT Ngô Mây  :TT Ngô Mây, H. Phù Cát"
+103,Trường THPT Thu Xà
+104,"THPT Nguyễn Hồng Đạo  :Xã Cát Hanh, H. Phù Cát"
+105,THPT Võ Lai
+106,THPT Quang Trung
+107,"THPT Nguyễn Huệ  :TT Phú Phong, H. Tây Sơn"
+108,THCS và THPT Nguyễn Khuyến
+109,THPT Lê Hữu Trác
+110,"THPT Nguyễn Đình Chiểu  :108 Nguyễn Đình Chiểu, Ph. Bình Định, thị xã An Nhơn"
+111,Trường THPT Quang Trung
+112,Trường THPT Lê Hồng Phong
+113,"THPT Số 2 Tuy phước  :Xã Phước Quang, H. Tuy Phước"
+114,THPT Số 2 Tuy phước
+115,"Trường THPT Trường Chinh  :Thôn Thanh Bình, TTr. Chư Sê, Gia Lai"
+116,THPT Trần Phú
+117,"Trường THPT Trần Quốc Tuấn  :TTr. Phú Thiện, H. Phú Thiện, Gia Lai"
+118,Trường THPT Lê Quý Đôn
+119,"THPT Lý Tự Trọng  :Xã Hoài Châu Bắc, H. Hoài Nhơn"
+120,TT GDNN-GDTX Kông Chro
+121,"THPT Hòa Bình  :Xã Nhơn Phong, thị xã An Nhơn"
+122,Trường THPT Chu Văn An
+123,"THPT Tây Sơn  :Xã Tây Bình, H. Tây Sơn"
+124,Trường THPT Lê Lợi
+125,Phổ thông Duy Tân
+126,Trường THPT Trần Phú
+127,THPT Nguyễn Bỉnh Khiêm
+128,Trường THPT Nguyễn Khuyến
+129,Trường THPT Nguyễn Du
+130,THPT Lương Thế Vinh
+131,THPT Trần Văn Dư
+132,"THPT Nam Trà My  :H. Nam Trà My, Quảng Nam"
+133,THPT Nguyễn Văn Cừ
+134,"THPT Nguyễn Du  :Xã Hoài Hương, H. Hoài Nhơn"
+135,THPT Nguyễn Trãi
+136,"THPT Phan Đình Phùng  :Phường Xuân Phú , thị xã Sông Cầu"
+137,THPT Hoàng Hoa Thám
+138,Trường THPT Minh Long
+139,THPT Trần Suyền
+140,Trường THPT Nguyễn Công Phương
+141,"THPT Võ Giữ  :Xã Ân Tín, H. Hoài Ân"
+142,Sở GD & ĐT Bình Định
+143,Trường THPT Vạn Tường
+144,THPT Số 1 Phù Cát
+145,THPT Lê Thành Phương
+146,"Trường THPT Lý Sơn  :Xã An Vĩnh, H. Lý Sơn"
+147,"Trường THPT Hoàng Hoa Thám  :Ph. Yên Thế, thành phố Pleiku, Gia Lai"
+148,THPT Võ Giữ
+149,THPT Lê Lợi  :Ph. Lê Lợi - Tp Kon Tum - Kon Tum
+150,"THPT Quang Trung  :TT Phú Phong, H. Tây Sơn"
+151,"Trường THPT Nguyễn Trường Tộ  :Xã Ia Nan, H. Đức Cơ, Gia Lai"
+152,TT GDNN-GDTX An Nhơn
+153,"THPT Lê Trực  :Xã Tiến Hóa, Huyện Tuyên Hoá, Tỉnh Quảng Bình"
+154,THPT An Lão
+155,THPT Số 3 Phù Cát
+156,Trung tâm GD Nghề nghiệp - GDTX H. Tây Hòa
+157,Trường THPT Trà Bồng
+158,THPT Trần Quốc Toản
+159,TT GDNN-GDTX Tuy Phước
+160,THPT Tôn Đức Thắng
+161,THPT Ninh Bình - Bạc Liêu
+162,Trường THPT Huỳnh Thúc Kháng
+163,Trường THPT Pleime
+164,THPT Tô Văn Ơn
+165,Trường Quốc tế Châu Á Thái Bình Dương - Gia Lai
+166,Trường THPT Nguyễn Trãi
+167,TT GDNN VÀ GDTX Quận Tân Bình
+168,THPT Ngô Lê Tân
+169,Trường THPT Ba Gia
+170,"Trường THPT Thu Xà  :Xã Nghĩa Hoà, H. Tư Nghĩa"
+171,"THPT Lê Lợi  :Thị trấn La Hai, Đồng Xuân"
+172,THPT Huỳnh Thúc Kháng
+173,"TH, THCS&THPT Ischool Quy Nhơn"
+174,"THPT Trần Quang Diệu  :Xã Ân Tường Tây, H. Hoài Ân"
+175,"THPT Số 1 Phù Cát  :TT Ngô Mây, H. Phù Cát"
+176,THPT Mỹ Thọ
+177,"PT DTNT Tỉnh Bình Định  :227 Nguyễn Thị Minh khai, TP. Quy Nhơn"
+178,"THPT Sào Nam  :H. Duy Xuyên, Quảng Nam"
+179,Trung tâm GDTX Tỉnh Bình Định
+180,Trường THPT Số 1 Nghĩa Hành
+181,Trường THPT Tư thục Trương Định
+182,"THPT Phan Bội Châu  :TT Bồng Sơn, H. Hoài Nhơn"
+183,THPT Phạm Văn Đồng
+184,THPT Lê Hồng Phong
+185,Trường THPT Hoàng Hoa Thám
+186,THPT Trần Quốc Tuấn
+187,"THPT Lê Quý Đôn  :Số 27, Trần Nhật Duật, Tp. Buôn Ma Thuột"
+188,THPT Diễn Châu 4
+189,"THPT An Lão  :Xã An Hòa , H. An Lão"
+190,THPT Phan Bội Châu  :Xã Ya Chim - Tp Kon Tum - Kon Tum
+191,THPT Nguyễn Văn Linh
+192,Trường THPT Võ Văn Kiệt
+193,Trường THPT Dân tộc nội trú tỉnh Quảng Ngãi
+194,"THPT Tam Quan  :TT Tam Quan, H. Hoài Nhơn"
+195,THPT Hoàng Mai 2
+196,"THPT Số 2 Phù Mỹ  :TT Bình Dương, H. Phù Mỹ"
+197,Trường THPT Trần Quốc Tuấn
+198,"Trường THPT Lê Trung Đình  :Ph. Chánh Lộ, Tp. Quảng Ngãi"
+199,THPT Phú Quốc
+200,"THPT Số 3 Tuy Phước  :Xã Phước Hòa, H. Tuy Phước"
+201,"Trường THPT Tôn Đức Thắng  :Xã Ia Din, H. Đức Cơ, Gia Lai"
+202,"Trường THPT Quang Trung  :27 Chu Văn An, Ph. An Phú, thị xã An Khê, Gia Lai"
+203,"THCS và THPT Võ Thị Sáu  :Xã An Ninh Tây, H. Tuy An"
+204,"Trường THPT Lương Thế Vinh  :TTr. KBang, H. KBang , Gia Lai"
+205,"THPT Ngô Lê Tân  :Xã Cát Khánh, H.Phù Cát"
+206,"Quốc Học Quy Nhơn  :09 Trần Phú, TP. Quy Nhơn"
+207,THPT Trường Chinh
+208,"Trường THPT Dân Tộc Nội Trú Đông Gia Lai  :Ph. An Tân, TX An Khê, Gia Lai"
+209,THPT Bách Việt
+210,TT GDNN-GDTX Mang Yang
+211,"Trường THPT Lê Thánh Tông  :70 Nguyễn Huệ, thị xã Ayun Pa, Gia Lai"
+212,TT GDTX Tỉnh
+213,"THPT Tăng Bạt Hổ  :TT Bồng Sơn, H. Hoài Nhơn"
+214,"Trường THPT Lê Quý Đôn  :TTr. Chư Prông, H. Chư Prông , Gia Lai"
+215,"THPT Võ Lai  :Xã Tây Giang, H. Tây Sơn"
+216,"THCS và THPT Võ Nguyên Giáp  :Xuân Cảnh, Tx Sông Cầu"
+217,"Trường THPT Số 1 Nghĩa Hành  :TTr. Chợ Chùa, H. Nghĩa Hành"
+218,"Trường THPT Nguyễn Bỉnh Khiêm  :06 Phan Đình Phùng,TTr. Chư Sê, H. Chư Sê, Gia Lai"
+219,Trường THPT Số 2 Nghĩa Hành
+220,Trường THPT Lý Sơn
+221,THCS THPT Tân Phú
+222,"THPT Nguyễn Văn Linh  :Xã Hòa Hiệp Nam, H. Đông Hoà"
+223,"THPT Lê Trung Kiên  :Thị trấn Hòa Vinh, H. Đông Hòa"
+224,THPT Nguyễn Thái Bình
+225,Trường THPT Số 2 Tư Nghĩa
+226,"THPT Nguyễn Du  :Thị trấn Hai Riêng, H. Sông Hinh"
+227,THPT An Phước
+228,THPT Đinh Tiên Hoàng
+229,"THCS và THPT Võ Nguyên Giáp  :Xã Xuân Cảnh, Thị xã Sông Cầu"
+230,"Trung tâm GDTX Tỉnh Bình Định  :35 Nguyễn Huệ, Quy Nhơn"
+231,THCS và THPT Khai Minh
+232,Trường THPT Trần Cao Vân
+233,"THPT Trần Phú  :Thị Trấn Chí Thạnh, H. Tuy An"
+234,"THPT Lê Thành Phương  :An Mỹ, Tuy An"
+235,"TH, THCS&THPT Ischool Quy Nhơn  :P. Nhơn Phú, TP. Quy Nhơn"
+236,"THPT Đồng Yên  :Xã Đồng Yên, H. Bắc Quang"
+237,Trường THPT chuyên Lê Khiết
+238,"Trường THPT Phan Bội Châu  :Ph. Ia Kring, thành phố Pleiku, Gia Lai"
+239,THPT Quỳnh Lưu 2
+240,Trường THPT Trường Chinh
+241,"Trường THPT Lê Quý Đôn  :Xã Bình Trung, H. Bình Sơn"
+242,THPT Buôn Ma Thuột
+243,Trường THPT Sơn Hà
+244,"THPT Phan Bội Châu  :Thị trấn Củng Sơn, H. Sơn Hòa"
+245,Trường THPT Lý Thường Kiệt
+246,Trường THPT Ya Ly
+247,"PT DTNT THCS&THPT An Lão  :Thị trấn An Lão, huyện An Lão, tỉnh Bình Định"
+248,PT DTNT Sa Thầy  :H. Sa Thầy - Kon Tum
+249,"Trường THPT Sơn Hà  :TTr. Di Lăng, H. Sơn Hà"
+250,"TT GDNN-GDTX An Nhơn  :599 Ngô Gia Tự, Ph. Bình Định, thị xã An Nhơn"
+251,THPT Nguyễn Văn Thoại
+252,Trường THPT Anh hùng Núp
+253,THPT Đăk Glong
+254,PT DTNT Ngọc Hồi  :H. Ngọc Hồi - KonTum
+255,Trường THPT Nguyễn Trường Tộ
+256,"Trường THPT Ba Tơ  :TTr. Ba Tơ, H. Ba Tơ"
+257,"Trường THPT Dân tộc nội trú tỉnh Quảng Ngãi  :Ph. Quảng Phú, Tp. Quảng Ngãi"
+258,PT DTNT tỉnh Kon Tum  :Ph. Quyết Thắng - Tp Kon Tum - Kon Tum
+259,PT DTNT tỉnh Kon Tum
+260,Trường THPT Ba Tơ
+261,Phổ thông Dân tộc Nội trú tỉnh Khánh Hòa
+262,"Trường THPT Hà Huy Tập  :TTr. Kông Chro, H. Kông Chro, Gia Lai"
+263,"Trường PT Dân tộc Nội trú tỉnh  :Ph. Yên Thế, thành phố Pleiku, Gia Lai"
+264,"Trường THPT Quang Trung  :Xã Sơn Thành, H. Sơn Hà"
+265,"THPT Trường Chinh  :TTr. Tân Sơn, Ninh Sơn"
+266,"Trường THPT Đinh Tiên Hoàng  :Xã Ia Dreh, H. Krông Pa, Gia Lai"
+267,THPT Ea H'leo
+268,Trường THPT Số 1 Tư Nghĩa
+269,"THPT Hà Huy Tập  :Xã Vĩnh Thạnh, Thành phố Nha Trang"
+270,"Trường THPT Nguyễn Chí Thanh  :138-Nguyễn Chí Thanh. P.Chi Lăng, TP Pleiku, Gia Lai"
+271,PT DTNT Vĩnh Thạnh
+272,"Trường THPT Số 2 Tư Nghĩa  :Xã Nghĩa Thuận, H. Tư Nghĩa"
+273,THCS và THPT Nguyễn Bá Ngọc
+274,THPT Trần Bình Trọng
+275,Trường THPT Nguyễn Huệ
+276,THPT Ngô Gia Tự 
+277,Khác
+278,THPT Nguyễn Du (từ 2018)  :Xã Hoài Hương
+279,"Trường THPT Nguyễn Khuyến  :194 Quang Trung, Ph. An Phú, thị xã An Khê, Gia Lai"
+280,"THPT Phan Chu Trinh  :Xã Xuân Bình, thị xã Sông Cầu"
+281,"THPT Số 1 Phù Mỹ  :TT Phù Mỹ, H. Phù Mỹ"
+282,Trường THPT Tư thục Hoàng Văn Thụ
+283,THPT Võ Thị Sáu
+284,"THPT Trường Chinh  :Thôn 2, xã Dlie Yang, huyện Ea H'Leo"
+285,THPT Nguyễn Tri Phương - Bảo Lộc
+286,THPT Nguyễn Hữu Thận
+287,THPT Ngô Sĩ Liên
+288,THPT Nguyễn Công Trứ
+289,THPT Phú Riềng
+290,THPT Duy Tân
+291,Trung học phổ thông Dân tộc nội trú N' Trang Lơng tỉnh Đăk Nông
+292,THPT Chu Văn An
+293,THPT Lê Duẩn
+294,THPT Đăk Song
+295,Trung tâm DN-GDTX&HN tỉnh Quảng Ngãi
+296,"Trường THPT Nguyễn Thái Học  :TTr. Nhơn Hòa, H. Chư Pưh, Gia Lai."
+297,THPT Gio Linh
+298,Trường THPT Số 2 Mộ Đức
+299,Trường THPT Võ Nguyên Giáp
+300,THPT Quảng Ninh
+301,"THPT Số 3 Quảng Trạch  :Xã Quảng Phú, Huyện Quảng Trạch, Tỉnh Quảng Bình"
+302,Trường THPT Trần Quang Diệu
+303,THPT Trần Hưng Đạo
+304,Trường THPT Số 2 Đức Phổ
+305,Trường THPT Đinh Tiên Hoàng
+306,THPT Lạc Long Quân
+307,Trường PT Dân tộc Nội trú tỉnh
+308,THPT Cư M'Gar
+309,"Trường THPT Nguyễn Trãi  :Đường Lê Thị Hồng Gấm, Ph. An Bình, thị xã An Khê, Gia Lai"
+310,THCS và THPT Nguyễn Viết Xuân
+311,THPT Dân tộc nội trú Ninh Thuận

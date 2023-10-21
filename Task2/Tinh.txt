@@ -1,0 +1,33 @@
+﻿MaTinh,TenTinh
+01,An Giang       
+02,Bà Rịa-Vũng Tàu
+03,Bình Định
+04,Bình Dương     
+05,Bình Phước     
+06,Bình Thuận     
+07,Cà Mau         
+08,Cao Bằng       
+09,Đà Nẵng        
+10,Đắk Lắk        
+11,Đăk Nông       
+12,Đồng Tháp      
+13,Gia Lai
+14,Hà Nam         
+15,Hà Tĩnh        
+16,Hải Dương      
+17,Khánh Hòa
+18,Kiên Giang     
+19,Kon Tum        
+20,Lâm Đồng
+21,Lạng Sơn       
+22,Nam Định       
+23,Nghệ An
+24,Ninh Thuận
+25,Phú Yên
+26,Quảng Bình     
+27,Quảng Nam
+28,Quảng Ngãi
+29,Quảng Trị      
+30,Thái Bình      
+31,Thanh Hoá      
+32,Tp. Hồ Chí Minh

@@ -1,0 +1,48 @@
+﻿MaNganh,TenNganh,MaKhoa
+7140205,Giáo dục chính trị,09
+7140201,Giáo dục mầm non,11
+7140206,Giáo dục thể chất,12
+7140202,Giáo dục Tiểu học,11
+7140114,Quản lý Giáo dục,08
+7140219,Sư phạm Địa lý,01
+7140212,Sư phạm Hoá học,01
+7140218,Sư phạm Lịch sử,01
+7140217,Sư phạm Ngữ văn,01
+7140213,Sư phạm Sinh học,01
+7140231,Sư phạm Tiếng Anh,01
+7140210,Sư phạm Tin học,01
+7140209,Sư phạm Toán học,01
+7140211,Sư phạm Vật lý,01
+7340301,Kế toán,07
+7340302,Kiểm toán,07
+7380101,Luật,09
+7340101,Quản trị kinh doanh ,06
+7340201,Tài chính – Ngân hàng ,06
+7440112,Hoá học ,05
+7440122,Khoa học vật liệu ,05
+7510401,CN kỹ thuật hoá học ,05
+7580201,Kỹ thuật xây dựng,04
+7480201,Công nghệ thông tin,02
+7520201,Kỹ thuật điện ,04
+7520207,KT điện tử - viễn thông,04
+7480103,Kỹ thuật phần mềm,02
+7620109,Nông học,05
+7460112,Toán ứng dụng,03
+7540101,Công nghệ thực phẩm,05
+7520216,Kỹ thuật điều khiển và TĐH,04
+7760101,Công tác xã hội,08
+7310608,Đông phương học,08
+7310101,Kinh tế ,07
+7220201,Ngôn ngữ Anh,10
+7850103,Quản lý đất đai ,05
+7310205,Quản lý nhà nước,09
+7850101,Quản lý tài nguyên và môi trường,05
+7810103,Quản trị dịch vụ du lịch và lữ hành,06
+7810201,Quản trị khách sạn,06
+7310403,Tâm lý học giáo dục,08
+7229030,Văn học,08
+7310630,Việt Nam học,08
+7220204,Ngôn ngữ Trung Quốc,08
+7140249,Sư phạm Lịch sử Địa lý,01
+7140247,Sư phạm Khoa học tự nhiên,01
+7510205,Công nghệ kỹ thuật ô tô,04

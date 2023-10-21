@@ -1,0 +1,13 @@
+﻿MaKhoa,TenKhoa
+01,Sư phạm
+02,Công nghệ thông tin
+03,Toán & Thống kê
+04,Kỹ thuật & Công nghệ
+05,Khoa học Tự nhiên
+06,Tài chính ngân hàng & Quản trị kinh doanh
+07,Kinh tế & Kế toán
+08,Khoa học xã hội & Nhân văn
+09,Lý Luận vhính trị - Luật - Quản lý nhà nước
+10,Ngoại ngữ
+11,Giáo dục tiểu học & Mầm non
+12,Giáo dục thể chất & Quốc phòng
